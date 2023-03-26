@@ -25,3 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="90"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="90">
 </p>
+
+<h2>Contato:</h2>
+<font size="4">
+<h3>- Telefone</h3>
+(55) 11 94206-2434
+
+<br>
+<h3>- Email</h3>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfSsWWksBjpzWDPSxNbJtwnWzkTfSbCHTkqhdMKmJfdnbmMSDzPmfMnQKXrKhFdmskLbq" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
