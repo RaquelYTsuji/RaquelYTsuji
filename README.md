@@ -33,4 +33,4 @@
 
 <br>
 <h3>- Email</h3>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfSsWWksBjpzWDPSxNbJtwnWzkTfSbCHTkqhdMKmJfdnbmMSDzPmfMnQKXrKhFdmskLbq" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfSsWWksBjpzWDPSxNbJtwnWzkTfSbCHTkqhdMKmJfdnbmMSDzPmfMnQKXrKhFdmskLbq" target="blank"> raqueltsuji@gmail.com</a>
