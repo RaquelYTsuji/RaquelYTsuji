@@ -27,10 +27,5 @@
 </p>
 
 <h2>Contato:</h2>
-<font size="4">
-<h3>- Telefone</h3>
-(55) 11 94206-2434
-
-<br>
 <h3>- Email</h3>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfSsWWksBjpzWDPSxNbJtwnWzkTfSbCHTkqhdMKmJfdnbmMSDzPmfMnQKXrKhFdmskLbq" target="blank"> raqueltsuji@gmail.com</a>
