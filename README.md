@@ -9,10 +9,10 @@
   
 <br>
 <a href="https://github.com/RaquelYTsuji/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaquelYTsuji&count_private=true&show_icons=true&theme=blueberry" height=200/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaquelYTsuji&count_private=true&show_icons=true&theme=blueberry" height=180/>
 </a>
 <a href="https://github.com/RaquelYTsuji/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelYTsuji&layout=compact&theme=blueberry" height=200/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelYTsuji&layout=compact&theme=blueberry" height=180/>
 </a>
 
 <br>
