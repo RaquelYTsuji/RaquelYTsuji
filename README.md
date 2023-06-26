@@ -2,7 +2,7 @@
 
 <p>
 - 🗓️ Eu tenho 17 anos. <br>
-- 📖 Estudo no Instituto Federal de São Paulo - Técnico em Informática Matutino. <br>
+- 📖 Estudo no Instituto Federal de São Paulo - Curso Técnico em Informática Integrado ao Ensino Médio Matutino. <br>
 - 💻 Possuo interesse em informática (com foco na área de programação). <br>
 - 🏠 Moro em São Paulo, Brasil.
 </p>
