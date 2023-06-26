@@ -32,3 +32,5 @@
 <h2>Contato:</h2>
 <h3>- Email</h3>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfSsWWksBjpzWDPSxNbJtwnWzkTfSbCHTkqhdMKmJfdnbmMSDzPmfMnQKXrKhFdmskLbq" target="blank"> raqueltsuji@gmail.com</a>
+<h3>- LinkedIn</h3>
+<a href="https://www.linkedin.com/in/raquel-yukie-tsuji/" target="blank"> Raquel Yukie Tsuji</a>
