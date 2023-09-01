@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaquelYTsuji&show_icons=true&theme=blueberry" height=180/>
 </a>
 <a href="https://github.com/RaquelYTsuji/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blueberry" height=180/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelYTsuji&layout=compact&theme=blueberry" height=180/>
 </a>
 
 <br>
