@@ -1,9 +1,9 @@
 <h1>Olá! Meu nome é Raquel Yukie Tsuji</h1>
 
 <p>
-- 🗓️ Eu tenho 17 anos. <br>
-- 📖 Estudo no Instituto Federal de São Paulo - Curso Técnico em Informática Integrado ao Ensino Médio Matutino. <br>
-- 💻 Possuo interesse em informática (com foco na área de programação). <br>
+- 🗓️ Eu tenho 18 anos. <br>
+- 📖 Estudo no Instituto Federal de São Paulo - Curso Técnico em Informática Integrado ao Ensino Médio. <br>
+- 💻 Possuo interesse em informática e procuro aprender cada vez mais sobre essa área. <br>
 - 🏠 Moro em São Paulo, Brasil.
 </p>
   
